@@ -53,7 +53,7 @@ programa
     	 	 
     	 	 }senao{
     	 	 	erros --
-    	 	 	escreva("você errou a letra\n")
+    	 	 	escreva("você errou ou repetiu a letra\n")
     	 	 }
     	 	 
     	 	 se (acertos == 0){
